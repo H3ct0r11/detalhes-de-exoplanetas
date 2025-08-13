@@ -1,1 +1,1 @@
-# detalhes-de-exoplanetas
+# CatalogoExoplanetas
